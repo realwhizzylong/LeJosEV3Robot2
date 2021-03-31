@@ -1,0 +1,10 @@
+public class Cell {
+	public int critical;
+	public int occupied;
+	
+	public Cell() {
+		critical = 0;
+		occupied = 0;
+	}
+	
+}

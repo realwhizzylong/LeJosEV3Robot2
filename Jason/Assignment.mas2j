@@ -1,0 +1,22 @@
+/* Jason Project */
+
+
+
+MAS assignment {
+	infrastructure: Centralised
+
+	environment: ParamedicEnv
+
+	agents:
+		paramedic;
+		//doctor1;
+		//doctor2;
+		doctor3;
+		//doctor4;
+
+	aslSourcePath:
+		"src/asl";
+
+}
+
+
